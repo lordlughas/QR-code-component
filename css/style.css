@@ -1,0 +1,54 @@
+body{
+  background-color: gray;
+}
+.container{
+  background-color: white;
+  border-radius: 5%;
+  height: 500px;
+  margin:auto;
+  position:relative;
+  top:100px;
+  width:300px;
+}
+.QRcode{
+  border-radius: 5%;
+  display: inline-block;
+  margin-bottom: 10px;
+  height: 250px;
+  position: relative;
+  left: 10px;
+  top:20px;
+  width: 260px;
+}
+.QRcode:hover{
+  background-color: blue;
+}
+.btn{
+  width: 260px;
+  height: 250px;
+  font-size: 220px;
+}
+.btn:hover{
+  background-color: blue;
+}
+.text{
+  line-height: 1.5rem;
+  margin: 40px 5px 5px;
+  padding: 3px;
+  text-align: center;
+}
+
+
+h3{
+  font-weight: 900;
+  font-family: "montserat-black";
+}
+
+p{
+  font-weight: 400;
+  padding:10px;
+}
+
+.ptext{
+  margin-top: 10px;
+}
